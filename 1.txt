@@ -1,0 +1,6 @@
+Имя, которым будут подписаны коммиты
+git config  - -global user.name "Введите_имя"
+Почта, которая будет в описании коммитера
+git config  - -global user.email "Введите_почту"
+Просмотреть имя и почту
+git config  - -list  - -global 

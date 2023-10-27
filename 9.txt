@@ -1,0 +1,2 @@
+Создать файл file1.txt с текстом "Source file1"
+echo "Source file1" > file1.txt
